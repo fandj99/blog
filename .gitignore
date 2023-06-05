@@ -3,3 +3,6 @@ node_modules
 /.vitepress/dist/
 .DS_Store
 /docs/resume.md
+/.fastRequest
+/.idea
+/.gitignore
